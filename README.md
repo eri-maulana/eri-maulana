@@ -57,10 +57,6 @@
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eri-maulana&show_icons=true&theme=sky&rank_icon=github&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eri-maulana&layout=compact&theme=sky&border_radius=10&hide=css,html" />
-</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eri-maulana&theme=github-compact&area=true&hide_border=true&color=0284c7" width="100%" />
@@ -71,7 +67,10 @@
 ### 📬 Get In Touch
 
 <p align="left">
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="https://wa.me/6285724175825" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:erimaulana.69@gmail.com">
     <img src="https://img.shields.io/badge/Email-0284C7?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com">
